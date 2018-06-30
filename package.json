@@ -7,10 +7,7 @@
   "activationCommands": {
     "atom-workspace": "pretty-html:toggle"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:ahmedBassell/pretty-html-atom.git"
-  },
+  "repository": "https://github.com/ahmedBassell/pretty-html-atom.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
