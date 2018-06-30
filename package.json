@@ -1,0 +1,21 @@
+{
+  "name": "pretty-html",
+  "main": "./lib/pretty-html",
+  "version": "0.0.0",
+  "description": "An opinionated lightweight package to beautify & lint html partials",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "pretty-html:toggle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ahmedBassell/pretty-html-atom.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "ibg-html-pretty": "^1.0.1"
+  }
+}
