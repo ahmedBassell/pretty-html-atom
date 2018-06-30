@@ -15,3 +15,7 @@ according to front-end guidelines used at @instabug.
 
 just toggle the package from packages => pretty-Html
 or using shortcut ctrl+alt+o
+
+## Dependencies
+
+depends on https://www.npmjs.com/package/ibg-html-pretty
